@@ -4,7 +4,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-9 col-md-offset-2">
-				<div class="page-ads box">
+				
 				
 					<form class="form-ad">
 						<div class="divider"><h3>Basic information</h3></div>
