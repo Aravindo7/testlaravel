@@ -118,20 +118,7 @@
 						</div>
 							</div>
 
-							<div class="col-md-6">
-								<div class="form-group">
-							 <div class="row">
-								<div class="col-md-6">
-									<label class="control-label" for="textarea">Medium</label>
-									<input type="text" class="form-control" placeholder="e.g English">
-								</div>
-								<div class="col-md-6">
-									<label class="control-label" for="textarea">Passed Out</label>
-									<input type="text" class="form-control" placeholder="e.g 2018">
-								</div>
-							</div>
-						</div>
-						<div class="form-group">
+											<div class="form-group">
 							<div class="row">
 								<div class="col-md-6">
 									<label class="control-label" for="textarea">Mark</label>
