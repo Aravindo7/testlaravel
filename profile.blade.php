@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-md-9 col-md-offset-2">
 				<div class="page-ads box">
-				<aravind>
+				<aravindkumar>
 					<form class="form-ad">
 						<div class="divider"><h3>Basic information</h3></div>
 						<div class="row">
