@@ -1,7 +1,5 @@
 @include('section/header1')
 
-
-
 <section id="content">
 	<div class="container">
 		<div class="row">
