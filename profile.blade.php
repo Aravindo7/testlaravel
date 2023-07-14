@@ -2,7 +2,7 @@
 
 <section id="content">
 	<div class="container">
-	s=12
+	a==10
 				
 				
 					<form class="form-ad">
